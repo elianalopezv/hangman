@@ -1,4 +1,4 @@
-#Hangman!
+# Hangman!
 
 A classic game.
 This is a 2D game made in less than one day! This was made as a technical assessment to enter to a company.
