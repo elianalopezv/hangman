@@ -1,7 +1,7 @@
 # Hangman!
 
 A classic game.
-This is a 2D game made in less than one day! This was made as a technical assessment to enter to a company.
+This is a 2D game made in less than **one day!** This was made as a technical assessment to enter to a company.
 However, the result was a complete hangman with random english words and, believe it or not, it can be very addictive.
 
 ## 1. How does this Hangman look?
